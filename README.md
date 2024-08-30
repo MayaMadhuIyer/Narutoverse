@@ -1,5 +1,6 @@
 # Narutoverse
 Welcome to Narutoverse, your ultimate guide to the world of Naruto! This website is dedicated to all things related to the Naruto anime series, offering a comprehensive overview of the story, characters, and iconic moments that have made Naruto a beloved series worldwide.
+
 Features 🔥
 -----------------------------------------
 Protagonists 🦊 Explore the lives and journeys of Naruto's heroes. This section is dedicated to the main characters who fight for peace, justice, and the protection of their loved ones.
